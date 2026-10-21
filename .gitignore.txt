@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pytest and Playwright execution outputs
+.pytest_cache/
+*.html
+test-results/
+.playwright/
+
+# IDE files
+.vscode/
+.idea/

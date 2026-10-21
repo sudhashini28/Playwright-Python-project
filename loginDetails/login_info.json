@@ -1,0 +1,9 @@
+{
+    "login_usernames": [
+        {"LoginName":"standard_user", "LoginPassword":"secret_sauce"},
+        {"LoginName":"performance_glitch_user", "LoginPassword":"secret_sauce"},
+        {"LoginName":"visual_user", "LoginPassword":"secret_sauce"}
+    ]
+}
+
+
